@@ -2,7 +2,7 @@
 
 **The most elegant, native clipboard manager for macOS.** GlassCut is a photographic memory for your Mac. Built with SwiftUI and designed to feel like a physical piece of glass, it stays out of your way until the exact moment you need it.
 
-[Download the Latest Release](https://github.com/WollfWizard/GlassCut/releases/latest/download/GlassCut.dmg)
+[Download the Latest Release](https://github.com/WollfWizard/GlassCut/releases/latest/download/GlassCut-1.1.dmg)
 
 ---
 
