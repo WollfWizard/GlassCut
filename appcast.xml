@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>GlassCut Changelog</title>
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+            <description><![CDATA[
+                <ul>
+                    <li>Initial release of GlassCut! Your Mac's new photographic memory.</li>
+                </ul>
+            ]]></description>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure 
+                url="https://github.com/WollfWizard/GlassCut/releases/download/v1.0/GlassCut-1.0.zip" 
+                sparkle:version="1.0" 
+                sparkle:shortVersionString="1.0" 
+                length="2700929" 
+                type="application/octet-stream" 
+                sparkle:edSignature="2umsb2hI9kt4hM4/npbGH/Br4dOk2oTnOE0XxjJqo7DufdFRITLGkxTpFXVHOs9BWbnNZ7ufvxqeaUGRQYkpCg==" />
+        </item>
+    </channel>
+</rss>
